@@ -1,0 +1,6 @@
+@PersonalAccountWebAPI_HostAddress = http://localhost:5098
+
+GET {{PersonalAccountWebAPI_HostAddress}}/personalAccount/
+Accept: application/json
+
+###

@@ -1,0 +1,8 @@
+.git/
+.githhub/
+.vs/
+personalAccount.db
+PersonalAccountEF/bin
+PersonalAccountEF/obj
+PersonalAccountWebAPI/bin
+PersonalAccountWebAPI/obj
